@@ -1,0 +1,16 @@
+# Datos geoespaciales pesados (fuentes embebidas en el HTML)
+*.gpkg
+*.zip
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Node / herramientas
+node_modules/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.log

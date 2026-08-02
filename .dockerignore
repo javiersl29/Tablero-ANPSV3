@@ -1,0 +1,6 @@
+*.gpkg
+*.zip
+limite_municipal.geojson
+limite_municipalV2_nosimplify.geojson
+Semadetlogo.png
+opencode/
